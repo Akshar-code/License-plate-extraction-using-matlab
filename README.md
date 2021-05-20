@@ -1,3 +1,3 @@
 # License-plate-extraction-using-matlab
 
-Please re-arrange the code, it will take 5 min max. As this code was written long back :)
+In this project, i built an application to take an image of a vehicle as an input and output the license plate number. This application can be usefull for tracking and penalising traffic offenders!
